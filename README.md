@@ -1,3 +1,5 @@
+# Versions
+[한국어](https://github.com/coding-1ab/CodingLab-rules/blob/main/README_kr.md)
 # CodingLab-rules
 
 0. This rule document inherits all contents of [Discord Community Guidelines (ToS Guide)](https://discord.com/guidelines)
