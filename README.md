@@ -1,7 +1,7 @@
 # CodingLab-rules
 
-0. This rule document inherits all contents of [Discord Community Guidelines (ToS Guide)](https://discord.com/guidelines)
-   Therefore, from now on, items that already specified in the ToS guide are not mentioned, but remain in effect.
+0. This rule document inherits all contents of [Discord Community Guidelines](https://discord.com/guidelines)
+   Therefore, from now on, items that already specified in the Community Guidelines are not mentioned, but remain in effect.
 
 1. you must not say bad words under any circumstances
    our server prevents words that have been deliberately altered to sound like swearing, profanity, words with even a sexual meaning or playful expressions directed at real people are prohibited.
