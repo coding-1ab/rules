@@ -1,34 +1,48 @@
-# CodingLab-rules
+# 코딩 연구소 규칙
 
-0. This rule document inherits all contents of [Discord Community Guidelines](https://discord.com/guidelines)
-   Therefore, from now on, items that already specified in the Community Guidelines are not mentioned, but remain in effect.
+이 규칙은 커뮤니티를 안전하고 깨끗하게 유지하기 위해서 존재합니다.  
+규칙을 지키시지 않으시면 코딩 연구소에 참여하실 수 없습니다.  
+규칙의 빈틈을 악용하는 행위는 관리자 재량에 따라 제재할 수 있습니다.
 
-1. you must not say bad words under any circumstances
-   our server prevents words that have been deliberately altered to sound like swearing, profanity, words with even a sexual meaning or playful expressions directed at real people are prohibited.
+### 1. 모두를 존중하십시오.
 
-2. respect another member during chatting.
-   don't use a word that can uncomfy at other people.
+코딩 연구소는 코딩에 대해 재미있게 토론하고, 질문하고, 서로 소통하고, 아이디어를 교환하기 위해 존재합니다.  
+서버 내에서는 항상 모든분들을 존중하여 주십시오.  
+서버 내에서는 경어만 사용하고, 상대방이 거부 의사를 밝힌 경우 지속하지 마십시오.  
+도배, 단타, 의도적인 방해, 의미없거나 지속적인 멘션은 금지됩니다.  
+비속어, 욕설, 공격적인 언행, 차별, 따돌림, 선동, 분쟁 유도, 불쾌감 조성, 협박, 저격, 박제(익명 포함), 비난도 모두 금지됩니다.
 
-3. you should keep topics on each channel.
-   if it judged that you too much break this rule, admin can intervene to warn to it.
-   (such as limited mute, bulk deleting)
+### 2. 악의적인 행동을 하지 마십시오.
 
-4. you can't mention other discord servers or server promote such as sending server links in the channel.
-   if it just shares the project you developed that's allowed, however, if it's too much like promotion,
-   your message will be deleted and you'll get a warning from the server.
+선정적인 사진 또는 영상, 바이러스, 해킹툴을 공유, 유통, 판매하는 행위는 엄격히 금지됩니다.  
+디스코드 버그를 악용하는 행위와 매스핑 또한 악의적인 행동입니다.
 
-5. if you keeping repeat fastly lots of mentioning or send a large amount of meaningless chat,
-   you'll be banned from the server forever.
+### 3. 법령을 준수하십시오.
 
-6. you should not publish malicious software or program on this server.
-   if occurred security issue by file or script uploaded by someone on this server,
-   all responsibility rests with the publisher.
+코딩 연구소는 디스코드 ToS와 가이드라인을 존중하고 준수합니다.  
+서버 이용에 불편을 주지않더라도 위 내용을 위반할 경우 제재를 받을 수 있습니다.
 
-7. you must not sell anything, any kind of things in the server.
+### 4. 홍보나 판매를 하지 마십시오.
 
-8. you must not impersonate other people.
-   if detected, you'll be kicked from the server immediately.
+코딩 연구소에서는 프로젝트 공유를 제외한 모든 형태의 홍보가 금지됩니다.  
+특히 금전적인 이득을 봤거나 볼 수 있는 경우에는 판매로 간주되어 가중처벌될 수 있습니다.  
+타 서버는 홍보를 포함한 모든 언급이 금지됩니다.
 
-# Other languages
+### 5. 관리자의 지시를 따르십시오.
 
-- [Korean (한국어)](https://github.com/coding-1ab/CodingLab-rules/blob/main/README_kr.md)
+관리자팀은 커뮤니티를 안전하게 유지하기 위해서 행동합니다.  
+이를 위해서 때때로 관리자의 개입이나 제재는 불가피합니다.  
+관리자의 지시가 부당하다고 생각하는 경우 추후에 서버장 또는 다른 관리자들에게 검토를 요구하십시오.
+
+### 6. 다른 사람을 사칭하지 마십시오.
+
+사전 합의 없이 다른 멤버나 유명인을 절대 사칭하지 마십시오
+특히 관리자 사칭은 가중처벌될 수 있습니다.
+
+### 7. 주제를 벗어나지 마십시오.
+
+#코딩-질문 등 특정한 용도가 있는 채널에서는 주제를 벗어나지 마십시오.
+
+### 8. 서버 차단을 우회하지 마십시오.
+
+서버 차단을 우회하려는 목적의 부계정 입장은 발각되는 즉시 차단됩니다.
