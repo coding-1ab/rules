@@ -28,7 +28,3 @@
 
 8. you must not impersonate other people.
    if detected, you'll be kicked from the server immediately.
-
-# Other languages
-
-- [Korean (한국어)](https://github.com/coding-1ab/CodingLab-rules/blob/main/README_kr.md)
